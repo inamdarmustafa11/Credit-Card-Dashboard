@@ -20,8 +20,7 @@ It's good to share a recent project I worked on a Credit Card Dashboard built us
 
 
 ### Customer Report:
-![Customer Report]
-(https://github.com/inamdarmustafa11/Credit-Card-Dashboard/blob/81bb55c18305d71e6c3a98bf240c44327252fa11/Customer%20Report.jpeg)
+![Customer Report](https://github.com/inamdarmustafa11/Credit-Card-Dashboard/blob/81bb55c18305d71e6c3a98bf240c44327252fa11/Customer%20Report.jpeg)
 
 - **Gender-based Insights:** Male customers account for $30M of the revenue, while female customers contribute $25M.
   
