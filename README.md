@@ -3,7 +3,7 @@
 It's good to share a recent project I worked on a Credit Card Dashboard built using Power BI, with data connected from a MySQL server. This dashboard is divided into two main reports: Transaction Report and Customer Report, offering a comprehensive overview of key metrics related to credit card usage.
 
 ## Live Dashboard
-[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAyNWY5MzYtNTkyOC00ZGEzLTk5MDQtZGY3NGQwNzMwYTAyIiwidCI6IjMwOTJkZjBiLWRhMjMtNDA1Yi1iZDczLWU5YThmZWEwODM2MSJ9)
+[Click here to view the live dashboard](https://github.com/inamdarmustafa11/Credit-Card-Dashboard/blob/dd6f0c47ba2a5cc8ed34a3b5cd75c5355f650f11/Transaction%20Report.jpeg)
 
 ### Transaction Report:
 ![Transaction Report](https://github.com/inamdarmustafa11/Sales-Insights-Dashboard/blob/d9d5f8037cafbf05bdb35360e1089a42ecef63e3/Key%20Insights.jpeg)
